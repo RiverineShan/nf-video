@@ -1,2 +1,1 @@
-# -
-Spotify合租教程
+# Spotify合租教程
